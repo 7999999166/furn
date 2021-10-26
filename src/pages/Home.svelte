@@ -17,9 +17,7 @@
     .ff{
         width: 100vh;
     }
-    .zz{
-        margin-top: 50%;
-    }
+   
 </style>
 <div class="table-responsive aa ff">
     <table class="table">

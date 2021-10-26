@@ -1,7 +1,7 @@
 <script>
     import {Route} from 'tinro'; 
     import './nedb.min.js';
-    import './w3.css';
+    // import './w3.css';
     import './bootstrap.bundle.min.js';
     import './bootstrap.min.css';
     import Header from './components/Header.svelte';
